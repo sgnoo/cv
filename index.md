@@ -1,186 +1,171 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Geonwoo's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Geonwoo Shin
+Blockchain engineer and software developer
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+dn2757@gmail.com
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/sgnoo" target="_blank">sgnoo</a>
 </div>
 
+## Experience
 
-## Currently
+### Dapp
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+이더리움 코어와 스마트 컨트랙트에 대한 이해를 바탕으로 Dapp을 개발한 경험이 있습니다. [Vue](https://vuejs.org/) 프레임워크를 기반으로 화면단을 개발했고 [Metamask](https://metamask.io/) 지갑과 연동하여 이더리움 트랜잭션을 처리했습니다.
 
-## Employment
+\- 탈중앙화 어플리케이션(DEX) 개발기 <a href="https://www.youtube.com/watch?v=aWwSzQ8-iD4" target="_blank"><i class="fa fa-youtube"></i></a>
 
-`2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+### Core
 
-## Education
+이더리움 코어를 이해하기 위해 [yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)를 읽고 이더리움 구현체 코드([go-ethereum](https://github.com/ethereum/go-ethereum)과 [py-evm](https://github.com/ethereum/py-evm))를 분석했습니다. 이후 go-ethereum을 포크하여 [plasma](https://www.plasma.io/plasma.pdf) 기술을 적용한 [plasma-evm](https://github.com/Onther-Tech/plasma-evm) 개발에 참여하였습니다.
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+\- Geth를 이용한 private Ethereum chain 구축 <a href="https://medium.com/onther-tech/geth%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-private-ethereum-chain-private-network-%EA%B5%AC%EC%B6%95-82feeb1d0bbc" target="_blank"><i class="fa fa-medium"></i></a>
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+\- go-ethereum 분석 <a href="https://docs.google.com/presentation/d/1pJxlNxi_R3BR6MUh5bsqqdBOy2H2hmv7" target="_blank"><i class="fa fa-file-powerpoint-o"></i></a>
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+\- Ghost protocol <a href="https://docs.google.com/presentation/d/11OSC2883AsopNuAMgWLFm4WshkJqWTrpR-MbKuZ6nZs/edit?usp=sharing" target="_blank"><i class="fa fa-file-powerpoint-o"></i></a>
 
-## Presentations
+\- Transaction Fee(GAS) Delegated Execution Model in py-evm <a href="https://medium.com/onther-tech/transaction-fee-gas-delegated-execution-model-in-py-evm-f2d57cea1008" target="_blank"><i class="fa fa-medium"></i></a>
 
-### Tutorials
+\- RLP <a href="https://docs.google.com/presentation/d/1uoVfLT-GiKXbNELl8xRal4Bpr1DPAXBn8V093DQ3Nfw/edit?usp=sharing" target="_blank"><i class="fa fa-file-powerpoint-o"></i></a>
 
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
+\- 이더리움 "이스탄불" 하드포크 <a href="https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EC%9D%B4%EC%8A%A4%ED%83%84%EB%B6%88-%ED%95%98%EB%93%9C%ED%8F%AC%ED%81%AC-cd9737f21753" target="_blank"><i class="fa fa-medium"></i></a>
 
-### Talks
+\- 왜 콘스탄티노플 하드포크는 연기되었나? <a href="https://medium.com/onther-tech/%EC%99%9C-%EC%BD%98%EC%8A%A4%ED%83%84%ED%8B%B0%EB%85%B8%ED%94%8C-%ED%95%98%EB%93%9C%ED%8F%AC%ED%81%AC%EB%8A%94-%EC%97%B0%EA%B8%B0%EB%90%98%EC%97%88%EB%82%98-685e54d652a5" target="_blank"><i class="fa fa-medium"></i></a>
 
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
+\- How to read Ethereum contract storage? <a href="https://docs.google.com/presentation/d/1Ryngu5o06e00IDMFmG8zIN7m8YGkFi8Wf8077a7y10o/edit?usp=sharing" target="_blank"><i class="fa fa-file-powerpoint-o"></i></a>
 
-MRC IGMM research seminars and section meetings (_various_)
+\- CREATE2는 정말 문제가 없을까? <a href="https://medium.com/onther-tech/create2-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%B6%84%EC%84%9D-d82e913ad28b" target="_blank"><i class="fa fa-medium"></i></a>
 
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
+\- Plasma EVM 성능 테스트 <a href="https://medium.com/onther-tech/plasma-evm-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-ff3a66c7fdaf" target="_blank"><i class="fa fa-medium"></i></a>
 
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
+\- Application Binary Interface Specification <a href="https://docs.google.com/presentation/d/1IgN9Hffa5BV7AIYzMgYjP2A8doUGoBB9_eqTx3ZZDlQ/edit?usp=sharing" target="_blank"><i class="fa fa-file-powerpoint-o"></i></a>
 
-### Posters
+\- Stateless Client <a href="https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%8A%A4%ED%83%9C%EC%9D%B4%ED%8A%B8%EB%A6%AC%EC%8A%A4-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-stateless-client-7%ED%8E%B8-b2e96d9f071b" target="_blank"><i class="fa fa-medium"></i></a>
 
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
+### Smart contract
 
-`2014`
-_ISMB_ (Boston MA, USA)
+스마트 컨트랙트 개발을 위한 언어([Solidity](https://solidity.readthedocs.io/en/v0.6.10/))와 프레임워크([Truffle](https://www.trufflesuite.com/)) 개발 문서를 읽고 여러 컨트랙트를 개발하였습니다. 또한 컨트랙트와 관련된 여러 블로그 글을 읽으며 컨트랙트가 어떻게 배포되고 동작하는지 이해하고 있으며, 컨트랙트 개발시 주의해야 할 보안적인 사안들(대표적으로 re-entrancy 문제)에 대해 숙지하고 있습니다. 이러한 지식들을 기반으로 상장을 앞둔 토큰 컨트랙트를 오딧한 경험을 가지고 있습니다.
 
-_Genome informatics_ (Cambridge, UK)
+\- About solidity <a href="https://medium.com/onther-tech/about-solidity-ffccd16caea2" target="_blank"><i class="fa fa-medium"></i></a>
 
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
+\- Deconstructing a Solidity Contract <a href="https://docs.google.com/presentation/d/1EXNqgmXbyOLAH_gPr3HFFVTzORRABqdtc9jpanKjCsY/edit?usp=sharing" target="_blank"><i class="fa fa-file-powerpoint-o"></i></a>
 
-`2013`
-_Genome informatics_ (CSHL NY, USA)
+\- Upgradable Smart Contract Applications Using Proxy Patterns <a href="https://medium.com/onther-tech/upgradeable-smart-contract-applications-using-proxy-patterns-2053a5780287" target="_blank"><i class="fa fa-medium"></i></a>
 
-_EpiGeneSys_ (Cambridge, UK)
+\- Meta Transaction for usability <a href="https://www.youtube.com/watch?v=Ce8jkk1-OSw" target="_blank"><i class="fa fa-youtube"></i></a>
 
+\- Gas saving tips <a href="https://www.youtube.com/watch?v=LuxDqHHbFkA" target="_blank"><i class="fa fa-youtube"></i></a>
 
-## Publications
+<!-- \- Truffle 시작하기 <a href="https://docs.google.com/presentation/d/1zdq9tQoFEVZTnKBd4ylXdyWYCebS3fEc0Z9RLXueLfo/edit?usp=sharing" target="_blank"><i class="fa fa-file-powerpoint-o"></i></a> -->
 
-<!-- ### Journals -->
-`2017`
-Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6: e28590.
+<!-- \- Onward with Ethereum Smart Contract Security <a href="https://docs.google.com/presentation/d/1IXmtU6pwcQ8YhfwHBKJLKDX6_TTR4Q9j_D3OvigAjwo/edit?usp=sharing" target="_blank"><i class="fa fa-file-powerpoint-o"></i></a> -->
 
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
+<!-- \- ERC20 Token and approve, transferFrom method <a href="https://docs.google.com/presentation/d/15Bx5aekfKCtE_cIDqyEJamIgZQiZ5WJWvAtqnN44n2I/edit?usp=sharing" target="_blank"><i class="fa fa-file-powerpoint-o"></i></a> -->
+\- Formal Verification of Smart Contracts <a href="https://medium.com/onther-tech/formal-verification-of-smart-contracts-8e411b6467b8" target="_blank"><i class="fa fa-medium"></i></a>
+
+## Projects
+`2019-20`
+<a href="https://staking.mton.tokamak.network/" target="_blank">**dashboard.tokamak.network**</a> <a href="https://github.com/Onther-Tech/dashboard.tokamak.network" target="_blank"><i class="fa fa-github"></i></a>
+
+\- Metamask 지갑 연동
+
+\- 트랜잭션 생성, 서명 및 전송
+
+\- 화면단 개발
+
+\- API 서버 개발
+
+\- 데이터 백업 시스템 개발
+
+* Vue.js
+* Node.js
+* Express.js
+* Truffle
+* Metamask
+* Javascript
+* Jest
+* HTML and CSS
+* AWS
+
+`2018-20`
+**plasma-evm** <a href="https://github.com/Onther-Tech/plasma-evm" target="_blank"><i class="fa fa-github"></i></a>
+
+\- stamina 컨트랙트 이식
+
+\- plasma configuration 추가
+
+\- custom genesis block 생성
+
+\- gas price 자동 조절 기능 추가
+
+\- cmd 옵션에 plasma flag 추가
+
+* Ethereum
+* go-ethereum
+* Go
+* Gulp
+* Web3.js
+* Solidity
+
+`2018`
+**zk-dex** <a href="https://github.com/Onther-Tech/zk-dex" target="_blank"><i class="fa fa-github"></i></a>
+
+`2016-18`
+**[Dr.Diary](https://play.google.com/store/apps/details?id=com.hansjin.drdiary_android)**
 
 `2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
-
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
-
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
-
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
-
-## Non-academic
-
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+**동국대학교 신공학관 애플리케이션** <a href="https://www.youtube.com/watch?v=CclTn1y54fM" target="_blank"><i class="fa fa-youtube"></i></a>
 
 ## Technical skills
 
-* R
-* Python
-* Javascript (incl. Typescript, Angular)
+* Solidity
+* Truffle
+* Node.js
+* Web3.js
+* Express.js
 * Go
+* Vue
 * HTML and CSS
-* LaTeX
 * Bash
-* Git / Mercurial
-* UNIX
-* Cluster computing
-* Docker
+* Git
 * AWS
+* Docker
+* UNIX
+* Javascript
+* Infura
 
-## Areas of expertise
+## Employment
 
-* Bioinformatics
-* Statistics
-* Machine learning
-* Data visualisation
-* Software development
-* NGS and variant calling
+`2018-20` 
+**[온더](https://tokamak.network/)** Blockchain Engineer and software developer
 
-## Projects
+`2016-18` 
+**[닥터다이어리](https://www.drdiary.co.kr/)** Android developer
 
-### github
+## Education
 
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
+`2012-20`
+**동국대학교** 서울캠퍼스 컴퓨터공학과 수료
 
-### blog
+## Activities
 
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
+`2017`
+**[소프트웨어 마에스트로](http://swmaestro.org/user/main.do;jsessionid=29C4D9A1F6EE7BC23BA437129194942D)** 8기 수료
 
-### EdinbR
-
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
-
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+## Contributions
+* ethereum/py-evm <a href="https://github.com/ethereum/py-evm/pull/1237" target="_blank"><i class="fa fa-github"></i></a>
+* omgnetwork/plasma-mvp <a href="https://github.com/omgnetwork/plasma-mvp/pull/160" target="_blank"><i class="fa fa-github"></i></a>
 
 ## Awards
+2018.12 컴퓨터공학 종합설계 프로젝트, 우수상 [동국대학교]
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+2016.10 서울과학기술대학교 공학교육거점센터 창의적 종합설계 경진대회 동상
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
+2016.09 2016 캡스톤 Value-up 결과발표회 대상
 
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
-
-
-## Links
-
-<!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
-
-## References
-
-Available on request.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+2016.07 2016년 상반기 SK 청년 비상 창업경진대회 우수상

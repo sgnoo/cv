@@ -9,7 +9,7 @@ To build, clone the repo and run jekyll:
 ```bash
 git clone git://github.com/blmoore/md-cv
 cd md-cv/
-jekyll serve
+jekyll serve --host 0.0.0.0
 ```
 (You may need to [install jekyll](https://jekyllrb.com/docs/installation/).)
 
